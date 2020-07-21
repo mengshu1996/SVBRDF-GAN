@@ -2,11 +2,9 @@
 
 Source code of our paper: 
 
-**Joint SVBRDF Recovery and Synthesis From a Single Image using** 
+[**Joint SVBRDF Recovery and Synthesis From a Single Image using an Unsupervised Generative Adversarial Network**](https://wangningbei.github.io/papers/paper_SVBRDFGan.pdf) ** (EGSR 2020)
 
-**an Unsupervised Generative Adversarial Network** (EGSR 2020)
-
-Yezi Zhao, Beibei Wang*, Yanning Xu, Zheng Zeng, Lu Wang, Nicolas Holzschuch
+Yezi Zhao, [Beibei Wang](https://wangningbei.github.io/)*, Yanning Xu, Zheng Zeng, Lu Wang, Nicolas Holzschuch
 
 (* joint first author)
 
